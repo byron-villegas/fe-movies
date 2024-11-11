@@ -1,0 +1,12 @@
+.card {
+    background-color: #212529 !important;
+    color: #eeeeee !important;
+}
+
+.cursor-pointer {
+    cursor: pointer !important;
+}
+
+.card-img-top {
+    width: 125px !important;
+}

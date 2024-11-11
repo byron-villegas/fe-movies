@@ -1,0 +1,11 @@
+.modal-dialog {
+    color: #EEEEEE !important;
+}
+
+.modal-content {
+    background-color: #212529 !important;
+}
+
+.btn-close {
+    --bs-btn-close-color: #EEEEEE;
+}
