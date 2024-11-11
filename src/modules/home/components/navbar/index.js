@@ -4,12 +4,10 @@ function Navbar() {
     return (
         <nav className="navbar navbar-dark navbar-expand-lg bg-dark mb-3">
           <div className="container-fluid">
-            <a className="navbar-brand" href="#">
-              <img src={process.env.PUBLIC_URL + "/images/favicon.png"} width="130" height="24" alt="brand" />
-            </a>
-            <button className="navbar-toggler" id="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-              <span className="navbar-toggler-icon"></span>
-            </button>
+          <a class="navbar-brand" href="#"><strong>Movies</strong></a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
               <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                 <li className="nav-item">
