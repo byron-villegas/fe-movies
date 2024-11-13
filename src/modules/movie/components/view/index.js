@@ -22,9 +22,9 @@ function View({ movie }) {
                             <div className="col"><strong>Duración:</strong></div>
                             <div className="col"><p>{movie.duration + " " + movie.durationType}</p></div>
                             <div className="col"><strong>Género:</strong></div>
-                            <div className="col">{movie.genres.map(genre => <p>{genre} </p> )}</div>
+                            <div className="col"><p>{movie.genres.map((genre, index) => index != movie.genres.length-1 ? genre + ", " : genre )}</p></div>
                             <div className="col"><strong>Idioma:</strong></div>
-                            <div className="col">{movie.languages.map(language => <p>{language} </p> )}</div>
+                            <div className="col"><p>{movie.languages.map((language, index) => index != movie.languages.length-1 ? language + ", " : language )}</p></div>
                             <div className="col"><strong>Resolución:</strong></div>
                             <div className="col">{movie.resolution}</div>
                             <div className="col"><strong>Peso:</strong></div>

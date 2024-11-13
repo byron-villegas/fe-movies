@@ -1,5 +1,49 @@
 [
     {
+        "title": "10000 BC",
+        "originalTitle": "10.000 B.C.",
+        "sypnosis": "Era la época en la que el gran mamut recorría la Tierra, la época en la que surgieron las primeras ideas y creencias que forjaron a la humanidad. Un joven cazador (Steven Strait) guia a un ejército a través de un vasto desierto, en un viaje en el que tendrán que enfrentarse a tigres dientes de sable y a otros depredadores prehistóricos, hasta que descubre una civilización perdida e intenta rescatar a la mujer que ama.",
+        "image": "10000 BC.jpg",
+        "year": 2008,
+        "duration": 109,
+        "durationType": "minutos",
+        "genres": [
+            "Aventuras",
+            "Prehistoria"
+        ],
+        "languages": [
+            "Español",
+            "Latino",
+            "Ingles"
+        ],
+        "resolution": "1920x1080",
+        "size": 3.94,
+        "sizeType": "GB",
+        "format": "mkv"
+    },
+    {
+        "title": "101 Dalmatas",
+        "originalTitle": "One Hundred and One Dalmatians",
+        "sypnosis": "Pongo y Perdita, los dálmatas protagonistas, son una feliz pareja canina que vive rodeada de sus cachorros y con sus amos Roger y Anita. Pero su felicidad está amenazada. Cruella de Ville, una pérfida mujer que vive en una gran mansión y adora los abrigos de pieles, se entera de que los protagonistas tienen quince cachorros dálmatas. Entonces, la idea de secuestrarlos para hacerse un exclusivo abrigo de pieles se convierte en una obsesión enfermiza. Para hacer realidad su sueño contrata a dos ladrones.",
+        "image": "101 Dalmatas.webp",
+        "year": 1961,
+        "duration": 79,
+        "durationType": "minutos",
+        "genres": [
+            "Animacion",
+            "Aventuras",
+            "Infantil"
+        ],
+        "languages": [
+            "Español Latino",
+            "Ingles"
+        ],
+        "resolution": "1920x1080",
+        "size": 3.79,
+        "sizeType": "GB",
+        "format": "mkv"
+    },
+    {
         "title": "12 Monos",
         "originalTitle": "Twelve Monkeys",
         "sypnosis": "Año 2035. Tras la epidemia provocada por un virus asesino que ha matado a millones de personas, los supervivientes se refugian en comunidades subterráneas, húmedas y frías. El prisionero James Cole se ofrece como voluntario para viajar al pasado y conseguir una muestra del virus, gracias a la cual los científicos podrán elaborar un antídoto. Durante el viaje conoce a una bella psiquiatra y a Jeffrey Goines, un excepcional enfermo mental. Cole tratará de encontrar al ”Ejército de los 12 Monos”, un grupo radical vinculado a la mortal enfermedad.",
@@ -7,10 +51,46 @@
         "year": 1995,
         "duration": 130,
         "durationType": "minutos",
-        "genres": ["Ciencia Ficcion", "Fantastico", "Intriga", "Futuro Postapocaliptico", "Pandemia", "Distopia", "Viajes en el tiempo"],
-        "languages": ["Español Latino", "Ingles"],
+        "genres": [
+            "Ciencia Ficcion",
+            "Fantastico",
+            "Intriga",
+            "Futuro Postapocaliptico",
+            "Pandemia",
+            "Distopia",
+            "Viajes en el tiempo"
+        ],
+        "languages": [
+            "Español Latino",
+            "Ingles"
+        ],
         "resolution": "1920x1080",
         "size": 3.65,
+        "sizeType": "GB",
+        "format": "mkv"
+    },
+    {
+        "title": "127 Horas",
+        "originalTitle": "127 Hours",
+        "sypnosis": "Basada en la historia real de Aron Ralston, un intrépido montañero y escalador norteamericano que se hizo famoso porque en mayo de 2003, durante una escalada por los nada transitados cañones de Utah, sufrió una caída y quedó atrapado dentro de una profunda grieta. Tras varios días inmovilizado e incapaz de encontrar una solución alternativa, tuvo que tomar una dramática decisión.",
+        "image": "127 Horas.jpg",
+        "year": 2010,
+        "duration": 93,
+        "durationType": "minutos",
+        "genres": [
+            "Drama",
+            "Aventuras",
+            "Alpinismo",
+            "Supervivencia",
+            "Naturaleza",
+            "Basado en hechos reales"
+        ],
+        "languages": [
+            "Español Latino",
+            "Ingles"
+        ],
+        "resolution": "1920x1080",
+        "size": 3.28,
         "sizeType": "GB",
         "format": "mkv"
     },
@@ -22,10 +102,47 @@
         "year": 2001,
         "duration": 92,
         "durationType": "minutos",
-        "genres": ["Terror", "Sobrenatural"],
-        "languages": ["Español Latino", "Ingles"],
+        "genres": [
+            "Terror",
+            "Sobrenatural"
+        ],
+        "languages": [
+            "Español Latino",
+            "Ingles"
+        ],
         "resolution": "1920x1080",
         "size": 4.88,
+        "sizeType": "GB",
+        "format": "mkv"
+    },
+    {
+        "title": "2012",
+        "originalTitle": "2012",
+        "sypnosis": "En el calendario de los mayas aparece señalado el año 2012 como la fecha en la que se producirá el fin del mundo, que irá acompañado de diversas catástrofes naturales: erupciones volcánicas, tifones, glaciares que inundarán el planeta. Cuando el escritor Jackson Curtis (John Cusack) y sus hijos regresan a casa, una intensa actividad sísmica recorre la Costa Oeste de los Estados Unidos.",
+        "image": "2012.jpg",
+        "year": 2012,
+        "duration": 158,
+        "durationType": "minutos",
+        "genres": [
+            "Acción",
+            "Aventuras",
+            "Ciencia",
+            "ficción",
+            "Thriller",
+            "Catástrofes",
+            "Terremotos",
+            "Volcanes",
+            "Fin",
+            "del",
+            "mundo"
+        ],
+        "languages": [
+            "Español",
+            "Latino",
+            "Ingles"
+        ],
+        "resolution": "1920x1080",
+        "size": 4.74,
         "sizeType": "GB",
         "format": "mkv"
     },
@@ -37,8 +154,17 @@
         "year": 2008,
         "duration": 123,
         "durationType": "minutos",
-        "genres": ["Thriller", "Juego", "Poker", "Basado en hechos reales", "Matematicas"],
-        "languages": ["Español Latino", "Ingles"],
+        "genres": [
+            "Thriller",
+            "Juego",
+            "Poker",
+            "Basado en hechos reales",
+            "Matematicas"
+        ],
+        "languages": [
+            "Español Latino",
+            "Ingles"
+        ],
         "resolution": "1920x1080",
         "size": 3.23,
         "sizeType": "GB",
@@ -52,8 +178,17 @@
         "year": 2002,
         "duration": 113,
         "durationType": "minutos",
-        "genres": ["Terror", "Ciencia Ficcion", "Thriller", "Zombis", "Pandemia"],
-        "languages": ["Español Latino", "Ingles"],
+        "genres": [
+            "Terror",
+            "Ciencia Ficcion",
+            "Thriller",
+            "Zombis",
+            "Pandemia"
+        ],
+        "languages": [
+            "Español Latino",
+            "Ingles"
+        ],
         "resolution": "1920x1080",
         "size": 4.1,
         "sizeType": "GB",
@@ -67,10 +202,42 @@
         "year": 2007,
         "duration": 99,
         "durationType": "minutos",
-        "genres": ["Terror", "Ciencia Ficcion", "Poker", "Thriller", "Zombis", "Pandemia"],
-        "languages": ["Español Latino", "Ingles"],
+        "genres": [
+            "Terror",
+            "Ciencia Ficcion",
+            "Poker",
+            "Thriller",
+            "Zombis",
+            "Pandemia"
+        ],
+        "languages": [
+            "Español Latino",
+            "Ingles"
+        ],
         "resolution": "1920x1080",
         "size": 3.66,
+        "sizeType": "GB",
+        "format": "mkv"
+    },
+    {
+        "title": "500 Dias Con Ella",
+        "originalTitle": "500 Days of Summer",
+        "sypnosis": "Tom aún sigue creyendo, incluso en este cínico mundo moderno, en la noción de un amor transformador, predestinado por el cosmos y que golpea como un rayo sólo una vez. Summer no cree lo mismo, para nada. La mecha se enciende desde el primer día, cuando Tom, un arquitecto en ciernes convertido en un sensiblero escritor de tarjetas de felicitación, se encuentra con Summer, la bella y fresca nueva secretaria de su jefe. Aunque aparentemente está fuera de su alcance, Tom pronto descubre que tienen un montón de cosas en común. La historia de Tom y Summer cubre desde el enamoramiento, las citas y el sexo hasta la separación, las recriminaciones y la redención, todo lo cual se suma al caleidoscópico retrato del porqué y el cómo seguimos esforzándonos de modo tan risible y rastrero para encontrar sentido al amor… y esperar convertirlo en realidad.",
+        "image": "500 Dias Con Ella.jpg",
+        "year": 2009,
+        "duration": 96,
+        "durationType": "minutos",
+        "genres": [
+            "Romance",
+            "Comedia",
+            "Drama"
+        ],
+        "languages": [
+            "Español Latino",
+            "Ingles"
+        ],
+        "resolution": "1920x1080",
+        "size": 4.24,
         "sizeType": "GB",
         "format": "mkv"
     },
@@ -82,55 +249,516 @@
         "year": 2000,
         "duration": 117,
         "durationType": "minutos",
-        "genres": ["Accion", "Robos", "Atracos", "Coches"],
-        "languages": ["Español Latino", "Ingles"],
+        "genres": [
+            "Accion",
+            "Robos",
+            "Atracos",
+            "Coches"
+        ],
+        "languages": [
+            "Español Latino",
+            "Ingles"
+        ],
         "resolution": "1920x1080",
         "size": 3.51,
         "sizeType": "GB",
         "format": "mkv"
     },
     {
-        "title": "101 Dalmatas",
-        "originalTitle": "One Hundred and One Dalmatians",
-        "sypnosis": "Pongo y Perdita, los dálmatas protagonistas, son una feliz pareja canina que vive rodeada de sus cachorros y con sus amos Roger y Anita. Pero su felicidad está amenazada. Cruella de Ville, una pérfida mujer que vive en una gran mansión y adora los abrigos de pieles, se entera de que los protagonistas tienen quince cachorros dálmatas. Entonces, la idea de secuestrarlos para hacerse un exclusivo abrigo de pieles se convierte en una obsesión enfermiza. Para hacer realidad su sueño contrata a dos ladrones.",
-        "image": "101 Dalmatas.webp",
-        "year": 1961,
-        "duration": 79,
+        "title": "A Dos Metros De Ti",
+        "originalTitle": "Five Feet Apart",
+        "sypnosis": "Will y Stella son dos adolescentes que padecen fibrosis quística y están ingresados en el hospital para tratarse. Aunque ambos tratan de refugiarse en su propio mundo, de forma inevitable acaban enamorándose. La pareja deberá luchar para mantener viva su relación, con una única regla: separarse con una distancia de alrededor de seis metros para evitar que ambos se puedan contagiar. Sin embargo, la vida de ambos estará en peligro.",
+        "image": "A Dos Metros De Ti.webp",
+        "year": 2019,
+        "duration": 116,
         "durationType": "minutos",
-        "genres": ["Animacion", "Aventuras", "Infantil"],
-        "languages": ["Español Latino", "Ingles"],
+        "genres": [
+            "Romance",
+            "Drama",
+            "Comedia",
+            "Romántico",
+            "Enfermedad",
+            "Adolescencia"
+        ],
+        "languages": [
+            "Español",
+            "Latino",
+            "Ingles"
+        ],
         "resolution": "1920x1080",
-        "size": 3.79,
+        "size": 4.34,
         "sizeType": "GB",
         "format": "mkv"
     },
     {
-        "title": "127 Horas",
-        "originalTitle": "127 Hours",
-        "sypnosis": "Basada en la historia real de Aron Ralston, un intrépido montañero y escalador norteamericano que se hizo famoso porque en mayo de 2003, durante una escalada por los nada transitados cañones de Utah, sufrió una caída y quedó atrapado dentro de una profunda grieta. Tras varios días inmovilizado e incapaz de encontrar una solución alternativa, tuvo que tomar una dramática decisión.",
-        "image": "127 Horas.jpg",
+        "title": "Abigail Ciudad Fantastica",
+        "originalTitle": "Abigail",
+        "sypnosis": "Una joven Abigail vive en una ciudad cuyas fronteras se cerraron hace muchos años debido a una epidemia de una misteriosa enfermedad. El padre de Abby era uno de los enfermos, y lo llevaron cuando ella tenía seis años. Al ir contra las autoridades para encontrar a su padre, Abby se entera de que su ciudad está llena de magia. Ella descubrirá en sí misma habilidades mágicas extraordinarias.",
+        "image": "Abigail Ciudad Fantastica.webp",
+        "year": 2019,
+        "duration": 110,
+        "durationType": "minutos",
+        "genres": [
+            "Aventuras",
+            "Fantástico"
+        ],
+        "languages": [
+            "Español",
+            "Latino",
+            "Ingles"
+        ],
+        "resolution": "1920x1080",
+        "size": 3.42,
+        "sizeType": "GB",
+        "format": "mkv"
+    },
+    {
+        "title": "Abracadabra",
+        "originalTitle": "Hocus Pocus",
+        "sypnosis": "Hace trescientos años, tres brujas fueron sentenciadas a muerte en Salem (Massachusetts), pero un niño las convirtió en gatos negros. En pleno Halloween, las brujas han vuelto accidentalmente gracias a Max, que estaba explorando las ruinas de su vieja casa. Su objetivo es hacer realidad su plan de conseguir la vida inmortal, pero si no recitan el conjuro antes del amanecer morirán de extrema vejez.",
+        "image": "Abracadabra.webp",
+        "year": 1993,
+        "duration": 95,
+        "durationType": "minutos",
+        "genres": [
+            "Fantástico",
+            "Comedia",
+            "Infantil",
+            "Terror",
+            "Brujería",
+            "Halloween",
+            "Cine",
+            "Familiar"
+        ],
+        "languages": [
+            "Español",
+            "Latino",
+            "Ingles"
+        ],
+        "resolution": "1920x1080",
+        "size": 3.67,
+        "sizeType": "GB",
+        "format": "mkv"
+    },
+    {
+        "title": "Abre Los Ojos",
+        "originalTitle": "Abre los ojos",
+        "sypnosis": "César, un atractivo joven que ha heredado de sus padres una gran fortuna, vive en una espléndida casa en la que organiza lujosas fiestas. Cuando una noche conoce a Sofía y se enamora de ella, Nuria, su antigua amante, se muere de celos. Al día siguiente, yendo en coche con César, intenta suicidarse. Cuando César se despierta en el hospital, descubre que su rostro ha quedado horriblemente desfigurado.",
+        "image": "Abre Los Ojos.jpg",
+        "year": 1997,
+        "duration": 117,
+        "durationType": "minutos",
+        "genres": [
+            "Intriga",
+            "Drama",
+            "Romance",
+            "Ciencia",
+            "Ficción",
+            "Thriller",
+            "Surrealismo"
+        ],
+        "languages": [
+            "Castellano"
+        ],
+        "resolution": "1920x1080",
+        "size": 3.18,
+        "sizeType": "GB",
+        "format": "mkv"
+    },
+    {
+        "title": "Ace Ventura Un Detective Diferente",
+        "originalTitle": "Ace Ventura",
+        "sypnosis": "El detective Ace Ventura, especializado en rescatar animales secuestrados, recibe el encargo de localizar y rescatar el delfin Copo de Nieve, mascota del equipo de fútbol de Miami, que ha sido secuestrado el día anterior a la gran final que debe disputar el equipo.",
+        "image": "Ace Ventura Un Detective Diferente.jpg",
+        "year": 1994,
+        "duration": 85,
+        "durationType": "minutos",
+        "genres": [
+            "Comedia",
+            "Aventuras"
+        ],
+        "languages": [
+            "Español",
+            "Latino",
+            "Ingles"
+        ],
+        "resolution": "1920x1080",
+        "size": 2.26,
+        "sizeType": "GB",
+        "format": "mkv"
+    },
+    {
+        "title": "Ace Ventura Cuando La Naturaleza Llama",
+        "originalTitle": "Ace Ventura",
+        "sypnosis": "Intentando superar el trauma que le ha dejado el fracaso de su última misión, en la que no pudo evitar que muriera el mapache que tenía que rescatar, el inefable detective Ace Ventura se retira a un monasterio budista. Pero, una vez allí, un extraño personaje le ofrece una fuerte suma de dinero para que trate de encontrar al animal sagrado de una tribu.",
+        "image": "Ace Ventura Cuando La Naturaleza Llama.jpg",
+        "year": 1995,
+        "duration": 91,
+        "durationType": "minutos",
+        "genres": [
+            "Comedia",
+            "Aventuras",
+            "África",
+            "Secuela"
+        ],
+        "languages": [
+            "Español",
+            "Latino",
+            "Ingles"
+        ],
+        "resolution": "1920x800",
+        "size": 2.17,
+        "sizeType": "GB",
+        "format": "mkv"
+    },
+    {
+        "title": "Actividad Paranormal",
+        "originalTitle": "Paranormal Activity",
+        "sypnosis": "Una pareja feliz, joven y de clase media ve su vida atormentada por un espíritu demoníaco. Ella es una estudiante que está punto de graduarse como profesora, y él, un corredor de bolsa que trabaja desde su casa. Viven desde hace tres años en una casa que hasta el momento les parecía completamente normal; pero, inesperadamente, extraños fenómenos paranormales empiezan a perturbar su vida.",
+        "image": "Actividad Paranormal.webp",
+        "year": 2007,
+        "duration": 99,
+        "durationType": "minutos",
+        "genres": [
+            "Terror",
+            "Sobrenatural"
+        ],
+        "languages": [
+            "Español",
+            "Latino",
+            "Ingles"
+        ],
+        "resolution": "1920x1080",
+        "size": 3.72,
+        "sizeType": "GB",
+        "format": "mkv"
+    },
+    {
+        "title": "Actividad Paranormal 0",
+        "originalTitle": "Paranormal Activity Tokyo Night",
+        "sypnosis": "El film comienza justo donde termina Paranormal Activity, donde una chica que ha estado visitando San Diego en un viaje de intercambio regresa a Japón llevándose con ella la presencia demoníaca de la primera película. Todo ello lo veremos a través de una grabación de una cámara doméstica…",
+        "image": "Actividad Paranormal 0.webp",
         "year": 2010,
-        "duration": 93,
+        "duration": 90,
         "durationType": "minutos",
-        "genres": ["Drama", "Aventuras", "Alpinismo", "Supervivencia", "Naturaleza", "Basado en hechos reales"],
-        "languages": ["Español Latino", "Ingles"],
-        "resolution": "1920x1080",
-        "size": 3.28,
+        "genres": [
+            "Terror",
+            "Sobrenatural"
+        ],
+        "languages": [
+            "Español",
+            "Latino",
+            "Ingles"
+        ],
+        "resolution": "1920x1040",
+        "size": 3.57,
         "sizeType": "GB",
         "format": "mkv"
     },
     {
-        "title": "500 Dias Con Ella",
-        "originalTitle": "500 Days of Summer",
-        "sypnosis": "Tom aún sigue creyendo, incluso en este cínico mundo moderno, en la noción de un amor transformador, predestinado por el cosmos y que golpea como un rayo sólo una vez. Summer no cree lo mismo, para nada. La mecha se enciende desde el primer día, cuando Tom, un arquitecto en ciernes convertido en un sensiblero escritor de tarjetas de felicitación, se encuentra con Summer, la bella y fresca nueva secretaria de su jefe. Aunque aparentemente está fuera de su alcance, Tom pronto descubre que tienen un montón de cosas en común. La historia de Tom y Summer cubre desde el enamoramiento, las citas y el sexo hasta la separación, las recriminaciones y la redención, todo lo cual se suma al caleidoscópico retrato del porqué y el cómo seguimos esforzándonos de modo tan risible y rastrero para encontrar sentido al amor… y esperar convertirlo en realidad.",
-        "image": "500 Dias Con Ella.webp",
-        "year": 2009,
-        "duration": 96,
+        "title": "Actividad Paranormal 2",
+        "originalTitle": "Paranormal Activity 2",
+        "sypnosis": "Después de sufrir lo que ellos creen una serie de robos, una familia coloca cámaras de seguridad en toda la casa, descubriendo para su sorpresa un lado mucho más siniestro que los propios sucesos inquietantes que están viviendo… Secuela del gran e inesperado éxito del cine independiente «Paranormal Activity».",
+        "image": "Actividad Paranormal 2.jpg",
+        "year": 2010,
+        "duration": 91,
         "durationType": "minutos",
-        "genres": ["Romance", "Comedia", "Drama"],
-        "languages": ["Español Latino", "Ingles"],
+        "genres": [
+            "Terror",
+            "Sobrenatural"
+        ],
+        "languages": [
+            "Español",
+            "Latino",
+            "Ingles"
+        ],
         "resolution": "1920x1080",
-        "size": 4.24,
+        "size": 2.42,
+        "sizeType": "GB",
+        "format": "mkv"
+    },
+    {
+        "title": "Actividad Paranormal 3",
+        "originalTitle": "Paranormal Activity 3",
+        "sypnosis": "Tercera entrega de la saga Paranormal Activity. Se remonta hasta 1988, cuando las hermanas Katie y Kristi eran solo unas niñas y tienen su primer encuentro con lo sobrenatural.",
+        "image": "Actividad Paranormal 3.webp",
+        "year": 2011,
+        "duration": 83,
+        "durationType": "minutos",
+        "genres": [
+            "Terror",
+            "Sobrenatural"
+        ],
+        "languages": [
+            "Español",
+            "Latino",
+            "Ingles"
+        ],
+        "resolution": "1920x1080",
+        "size": 2.02,
+        "sizeType": "GB",
+        "format": "mkv"
+    },
+    {
+        "title": "Actividad Paranormal 4",
+        "originalTitle": "Paranormal Activity 4",
+        "sypnosis": "Todo transcurre cinco años después de los sucesos de «Paranormal Activity 2», que terminó con el secuestro de Hunter por parte de Katie. En la actualidad, Katie y Hunter, que ahora se hace llamar Robbie, se han trasladado a un nuevo barrio y sus vecinos, Alex y su familia, comienzan a experimentar sucesos paranormales que ocurren en su casa.",
+        "image": "Actividad Paranormal 4.webp",
+        "year": 2012,
+        "duration": 88,
+        "durationType": "minutos",
+        "genres": [
+            "Terror",
+            "Sobrenatural"
+        ],
+        "languages": [
+            "Español",
+            "Latino",
+            "Ingles"
+        ],
+        "resolution": "1920x1080",
+        "size": 2.06,
+        "sizeType": "GB",
+        "format": "mkv"
+    },
+    {
+        "title": "Actividad Paranormal 5",
+        "originalTitle": "Paranormal Activity The Ghost Dimension",
+        "sypnosis": "La familia Fleege acaba de mudarse de casa. Entre las cosas que dejaron los anteriores inquilinos, encuentran una cámara de vídeo y unos viejos vídeos. El contenido de las cintas muestran imágenes extrañas, de dos niñas que habitaban la casa antiguamente: Kristi y Katie (Actividad paranormal 3). Muy pronto se darán cuenta que los antiguos dueños del local dejaron abandonada una cámara de vídeo HD que tiene la predicción de ver fantasmas por medio del lente de la cámara, cosa que ningún humano puede ver.",
+        "image": "Actividad Paranormal 5.webp",
+        "year": 2015,
+        "duration": 88,
+        "durationType": "minutos",
+        "genres": [
+            "Terror",
+            "Sobrenatural"
+        ],
+        "languages": [
+            "Español",
+            "Latino",
+            "Ingles"
+        ],
+        "resolution": "1920x1080",
+        "size": 3.61,
+        "sizeType": "GB",
+        "format": "mkv"
+    },
+    {
+        "title": "Actividad Paranormal Los Marcados",
+        "originalTitle": "Paranormal Activity The Marked Ones",
+        "sypnosis": "Después de sufrir una maldición, Jesse empieza a ser perseguido por fuerzas misteriosas, aunque su familia y sus amigos harán todo lo posible para salvarlo. Spin-off latino de la saga Paranormal Activity.",
+        "image": "Actividad Paranormal Los Marcados.jpg",
+        "year": 2013,
+        "duration": 84,
+        "durationType": "minutos",
+        "genres": [
+            "Terror",
+            "Sobrenatural"
+        ],
+        "languages": [
+            "Español",
+            "Latino",
+            "Ingles"
+        ],
+        "resolution": "1920x1080",
+        "size": 2.76,
+        "sizeType": "GB",
+        "format": "mkv"
+    },
+    {
+        "title": "Ad Astra",
+        "originalTitle": "Ad Astra",
+        "sypnosis": "El astronauta Roy McBride (Brad Pitt) viaja a los límites exteriores del sistema solar para encontrar a su padre perdido y desentrañar un misterio que amenaza la supervivencia de nuestro planeta. Su viaje desvelará secretos que desafían la naturaleza de la existencia humana y nuestro lugar en el cosmos.",
+        "image": "Ad Astra.jpg",
+        "year": 2019,
+        "duration": 122,
+        "durationType": "minutos",
+        "genres": [
+            "Ciencia",
+            "Ficción",
+            "Drama",
+            "Thriller",
+            "Aventura",
+            "Espacial",
+            "Supervivencia"
+        ],
+        "languages": [
+            "Español",
+            "Latino",
+            "Ingles"
+        ],
+        "resolution": "1920x1080",
+        "size": 4.56,
+        "sizeType": "GB",
+        "format": "mkv"
+    },
+    {
+        "title": "Agente Bajo Fuego",
+        "originalTitle": "Angel Has Fallen",
+        "sypnosis": "Tras un ataque sorpresa con drones, el agente Mike Banning (Gerard Butler) es acusado de un intento de asesinato del presidente de los Estados Unidos. Perseguido por su propia agencia y por el FBI, Banning inicia una carrera a contrarreloj en la que ha de desvelar al auténtico grupo terrorista que ha puesto su mirada sobre el presidente. Secuela de Londres Bajo Fuego (2016)",
+        "image": "Agente Bajo Fuego.webp",
+        "year": 2019,
+        "duration": 120,
+        "durationType": "minutos",
+        "genres": [
+            "Acción",
+            "Thriller",
+            "Terrorismo",
+            "Secuela"
+        ],
+        "languages": [
+            "Español",
+            "Latino",
+            "Ingles"
+        ],
+        "resolution": "1920x1080",
+        "size": 4.47,
+        "sizeType": "GB",
+        "format": "mkv"
+    },
+    {
+        "title": "Agente Salt",
+        "originalTitle": "Salt",
+        "sypnosis": "La lealtad de Evelyn Salt (Angelina Jolie), una agente de la CIA, es puesta a prueba cuando un desertor la acusa de ser una espía rusa. Entonces, se ve obligada a huir y a servirse de todos sus conocimientos y experiencia para evitar que la capturen. Sus esfuerzos para demostrar su inocencia son inútiles. Mientras tanto, continúa la caza para descubrir su verdadera identidad.",
+        "image": "Agente Salt.webp",
+        "year": 2010,
+        "duration": 104,
+        "durationType": "minutos",
+        "genres": [
+            "Thriller",
+            "Acción",
+            "Espionaje"
+        ],
+        "languages": [
+            "Español",
+            "Latino",
+            "Ingles"
+        ],
+        "resolution": "1920x1080",
+        "size": 3.73,
+        "sizeType": "GB",
+        "format": "mkv"
+    },
+    {
+        "title": "Ahora o Nunca",
+        "originalTitle": "The Bucket List",
+        "sypnosis": "Dos enfermos terminales de cáncer, de caracteres y mundos completamente opuestos, entablan amistad. Edward Cole (Jack Nicholson) es un engreído millonario mientras que Carter Chambers (Morgan Freeman) es un modesto mecánico. A pesar de todo, deciden emprender juntos un último viaje para poder hacer, antes de morir, todas las cosas que siempre han deseado.",
+        "image": "Ahora o Nunca.webp",
+        "year": 2007,
+        "duration": 97,
+        "durationType": "minutos",
+        "genres": [
+            "Comedia",
+            "Drama",
+            "Comedia",
+            "Amistad",
+            "Vejez",
+            "Enfermedad"
+        ],
+        "languages": [
+            "Español",
+            "Latino",
+            "Ingles"
+        ],
+        "resolution": "1920x1080",
+        "size": 3.54,
+        "sizeType": "GB",
+        "format": "mkv"
+    },
+    {
+        "title": "Ahora Son 13",
+        "originalTitle": "Ocean’s 13",
+        "sypnosis": "Dulce venganza bajo el cielo de Las Vegas… Danny Ocean y su banda únicamente pueden tener un motivo para perpetrar su robo más audaz hasta el momento: salvar a uno de los suyos, una misión que sin duda pondrá a prueba la astucia y el compromiso de todos los integrantes de su equipo. Pero la suerte no es suficiente cuando se quiere asaltar «The Bank», ya que serán muchos los peligros a los que deberán enfrentarse durante toda la trama.\nEl cruel propietario del casino, Willy Bank, no se esperaba tal respuesta cuando traicionó y despidió al amigo y mentor de Danny, Reuben Tishkoff. Mal, muy mal calculado, ya que el protagonista ha reunido a sus fieles cómplices para impartir a Bank un castigo ejemplar la noche de la inauguración de su nuevo casino, «The Bank», algo que va a propiciar una serie de acontecimientos que se irán entrelazando conforme se vaya desarrollando la historia.",
+        "image": "Ahora Son 13.webp",
+        "year": 2007,
+        "duration": 115,
+        "durationType": "minutos",
+        "genres": [
+            "Thriller",
+            "Intriga"
+        ],
+        "languages": [
+            "Español",
+            "Latino",
+            "Ingles"
+        ],
+        "resolution": "1920x1080",
+        "size": 4.5,
+        "sizeType": "GB",
+        "format": "mkv"
+    },
+    {
+        "title": "Al Diablo Con El Diablo",
+        "originalTitle": "Bedazzled",
+        "sypnosis": "Brendan Fraser es un joven torpe y bondadoso, con poco éxito en la vida, que vende su alma al diablo (una explosiva Elizabeth Hurley) a cambio de unos deseos que no se ven del todo cumplidos.",
+        "image": "Al Diablo Con El Diablo.jpg",
+        "year": 2000,
+        "duration": 89,
+        "durationType": "minutos",
+        "genres": [
+            "Comedia",
+            "Fantástico"
+        ],
+        "languages": [
+            "Español",
+            "Latino",
+            "Ingles"
+        ],
+        "resolution": "1920x816",
+        "size": 1.97,
+        "sizeType": "GB",
+        "format": "mkv"
+    },
+    {
+        "title": "Al Filo del Mañana",
+        "originalTitle": "",
+        "sypnosis": "En un futuro no muy lejano, invade la Tierra una raza de extraterrestres invencibles. Al Comandante William Cage (Tom Cruise), un oficial que nunca ha entrado en combate, le encargan una misión casi suicida y resulta muerto. Entra entonces en un bucle temporal, en el que se ve obligado a luchar y morir una y otra vez. Pero las múltiples batallas que libra lo hacen cada vez más hábil y eficaz en su lucha contra los alienígenas. Su compañera de combate es Rita Vrataski (Emily Blunt), una guerrera de las Fuerzas Especiales. Adaptación del manga de Hiroshi Sakurazaka.",
+        "image": "Al Filo del Mañana.webp",
+        "year": 2014,
+        "duration": 113,
+        "durationType": "minutos",
+        "genres": [
+            "Ciencia",
+            "ficción",
+            "Acción",
+            "Extraterrestres",
+            "Viajes",
+            "en",
+            "el",
+            "tiempo"
+        ],
+        "languages": [
+            "Español",
+            "Latino",
+            "Ingles"
+        ],
+        "resolution": "1920x1080",
+        "size": 4.05,
+        "sizeType": "GB",
+        "format": "mkv"
+    },
+    {
+        "title": "Aladdin",
+        "originalTitle": "Aladdin",
+        "sypnosis": "Basada en el famoso cuento «Aladino y la lámpara maravillosa», la trama se sitúa en el exótico paisaje del mítico reino árabe de Agrabah. Aladdin es un ingenioso joven que, a pesar de vivir en un estado de extrema pobreza, sueña con casarse con la bella hija del sultán, la princesa Yasmin. El destino interviene cuando el astuto visir del Sultán, Yafar, recluta a Aladdin para que le ayude a recuperar una lámpara mágica de las profundidades de la Cueva de las Maravillas. El joven encuentra la lámpara, en la que vive un genio que concede tres deseos a quien lo libere.",
+        "image": "Aladdin.jpg",
+        "year": 1992,
+        "duration": 87,
+        "durationType": "minutos",
+        "genres": [
+            "Animacion",
+            "Aventuras",
+            "Musical",
+            "Infantil",
+            "Familiar"
+        ],
+        "languages": [
+            "Español",
+            "Latino",
+            "Ingles"
+        ],
+        "resolution": "1920x1080",
+        "size": 4.19,
         "sizeType": "GB",
         "format": "mkv"
     }
