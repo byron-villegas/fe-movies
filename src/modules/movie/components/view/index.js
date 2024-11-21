@@ -1,6 +1,33 @@
 import './View.css';
 
 function View({ movie }) {
+
+    const getDurationTypeName = (durationType) => {
+
+        if(!durationType) {
+            return '';
+        }
+
+        switch(durationType) {
+            case 'hh':
+                return 'horas';
+            case 'mm':
+                return 'minutos';
+            case 'ss':
+                return 'segundos';
+            default:
+                return '';
+        }
+    }
+
+    const getResolution = (resolutionWidth, resolutionHeight) => {
+        if(!resolutionWidth || !resolutionHeight) {
+            return '';
+        }
+
+        return `${resolutionWidth}x${resolutionHeight}`;
+    }
+
     return (
         <div className="modal fade" id="selectedMovieModal" tabIndex="-1" aria-labelledby="selectedMovieModalLabel" aria-hidden="true">
             <div className="modal-dialog modal-lg">
@@ -20,19 +47,18 @@ function View({ movie }) {
                             <div className="col"><strong>Año:</strong></div>
                             <div className="col"><p>{movie.year}</p></div>
                             <div className="col"><strong>Duración:</strong></div>
-                            <div className="col"><p>{movie.duration + " " + movie.durationType}</p></div>
+                            <div className="col"><p>{movie.duration + " " + getDurationTypeName(movie.durationType)}</p></div>
                             <div className="col"><strong>Género:</strong></div>
                             <div className="col"><p>{movie.genres?.map((genre, index) => index !== movie.genres.length-1 ? genre + ", " : genre )}</p></div>
                             <div className="col"><strong>Idioma:</strong></div>
                             <div className="col"><p>{movie.languages?.map((language, index) => index !== movie.languages.length-1 ? language + ", " : language )}</p></div>
                             <div className="col"><strong>Resolución:</strong></div>
-                            <div className="col">{movie.resolution}</div>
+                            <div className="col">{getResolution(movie.resolutionWidth, movie.resolutionHeight)}</div>
                             <div className="col"><strong>Peso:</strong></div>
                             <div className="col">{movie.size + " " + movie.sizeType}</div>
                             <div className="col"><strong>Formato:</strong></div>
                             <div className="col">{movie.format}</div>
                         </div>
-                        
                     </div>
                     <div className="modal-footer">
                         <button type="button" className="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
