@@ -1,7 +1,16 @@
-const movies = require('../data/movies.json');
+import axios from 'axios';
+
+import configuration from '../config/configuration';
 
 const getMovies = () => {
-    return movies;
+    const options = {
+        headers: {
+            'accept': '*/*',
+            'content-type': 'application/json'
+        }
+    };
+
+    return axios.get(`${configuration.api}/movies`, options);
 }
 
 export { getMovies };

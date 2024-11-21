@@ -10,3 +10,7 @@
 .card-img-top {
     width: 125px !important;
 }
+
+.card .text-muted {
+    color: #ffffffb3 !important;
+}
