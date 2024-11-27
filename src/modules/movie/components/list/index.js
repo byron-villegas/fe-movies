@@ -12,10 +12,6 @@ function List() {
     React.useEffect(() => {
         Core.MovieService.getMovies().then(resp => {
             setMovies(resp.data);
-            
-            if(movies.length > 0) {
-                setSelectedMovie(movies[0]);
-            }
         })
     }, []);
 

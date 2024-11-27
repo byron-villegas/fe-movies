@@ -38,7 +38,7 @@ function View({ movie }) {
                     </div>
                     <div className="modal-body">
                         <div className="text-center">
-                            <img src={process.env.PUBLIC_URL + "/images/movies/" + movie.image} width="40%" alt={movie.title} />
+                            <img src={ movie.image ? process.env.PUBLIC_URL + "/images/movies/" + movie.image : ''} width="40%" alt={movie.title} />
                         </div>
                         <p className="mt-3">{movie.sypnosis}</p>
                         <div className="row row-cols-md-2 g-1">
