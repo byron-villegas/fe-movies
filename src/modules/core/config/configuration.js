@@ -1,5 +1,10 @@
 const configuration = {
-    api: 'https://ms-movies.onrender.com/api'
+    server: {
+        url: 'http://localhost:8000/api',
+        paths: {
+            movies: 'movies'
+        }
+    }
 };
 
 export default configuration;

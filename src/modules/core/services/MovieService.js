@@ -10,7 +10,7 @@ const getMovies = () => {
         }
     };
 
-    return axios.get(`${configuration.api}/movies`, options);
+    return axios.get(`${configuration.server.url}/${configuration.server.paths.movies}`, options);
 }
 
 export { getMovies };
