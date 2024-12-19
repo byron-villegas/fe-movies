@@ -1,6 +1,6 @@
 const configuration = {
     server: {
-        url: 'http://localhost:8000/api',
+        url: 'https://ms-movies.onrender.com/api',
         paths: {
             movies: 'movies'
         }
