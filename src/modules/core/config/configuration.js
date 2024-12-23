@@ -1,6 +1,6 @@
 const configuration = {
     server: {
-        url: 'https://ms-movies.onrender.com/api',
+        url: 'https://ms-movies-three.vercel.app/api',
         paths: {
             movies: 'movies'
         }
