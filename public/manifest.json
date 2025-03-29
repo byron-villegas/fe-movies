@@ -1,6 +1,11 @@
 {
-  "short_name": "Movies App",
-  "name": "Movies App",
+  "name": "Movies",
+  "short_name": "Movies",
+  "description": "Application for my favorites movies",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1a1d20",
+  "background_color": "#1a1d20",
   "icons": [
     {
       "src": "images/favicon.png",
@@ -18,8 +23,5 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "lang": "es"
 }
