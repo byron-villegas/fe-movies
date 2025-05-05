@@ -22,9 +22,6 @@
     "url": "https://github.com/byron-villegas/fe-movies/issues"
   },
   "homepage": "https://github.com/byron-villegas/fe-movies",
-  "engines": {
-    "node": ">=v21.7.3"
-  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
