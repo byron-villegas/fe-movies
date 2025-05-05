@@ -1,7 +1,30 @@
 {
   "name": "fe-movies",
+  "description": "App for my movies collection",
   "version": "1.0.0",
   "private": true,
+  "author": {
+    "name": "Byron Villegas",
+    "email": "byronvillegasm@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "React",
+    "JavaScript",
+    "Movies",
+    "Collection"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/byron-villegas/fe-movies"
+  },
+  "bugs": {
+    "url": "https://github.com/byron-villegas/fe-movies/issues"
+  },
+  "homepage": "https://github.com/byron-villegas/fe-movies",
+  "engines": {
+    "node": ">=vv21.7.3"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
